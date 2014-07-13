@@ -1,12 +1,9 @@
 apikeys.js
 
-#################
-## Eclipse
-#################
-
 *.pydevproject
 .project
 .metadata
+*.zip
 bin/
 tmp/
 *.tmp
